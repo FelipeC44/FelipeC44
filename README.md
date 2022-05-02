@@ -8,7 +8,7 @@
 
 
 ### About me...
-Me chamo Felipe Cardoso, atualmente estou cursando Análise e Desenvolvimento de Sistemas no GrupoSer pela instituição Uninabuco. Também sou estagiário de desenvolvimento .Net Core e Analista de Qualidade. 💻
+Me chamo Felipe Cardoso, atualmente estou cursando Análise e Desenvolvimento de Sistemas no GrupoSer Educacional pela instituição Uninabuco. Também estou atuando como estagiário de desenvolvimento .Net Core e Analista de Qualidade. 💻
 
 
 ## Tecnologias
@@ -21,9 +21,9 @@ Me chamo Felipe Cardoso, atualmente estou cursando Análise e Desenvolvimento de
   
   <img align="center" alt="FelipeC-Postman" height="30" width="60" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   
-  <img align="center" alt="FelipeC-Sharepoint" height="30" width="80" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white.svg"> 
+  <img align="center" alt="FelipeC-Sharepoint" height="30" width="85" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white.svg"> 
 
-  <img align="center" alt="FelipeC-SQLServer" height="30" width="80" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white.svg">
+  <img align="center" alt="FelipeC-SQLServer" height="30" width="85" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white.svg">
   
   
 </div>
