@@ -17,13 +17,19 @@ Me chamo Felipe Cardoso, atualmente estou cursando Análise e Desenvolvimento de
 <div style="display: inline_block"><br>
   <img align="center" alt="FelipeC-Java" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white.svg">
   
+  <img align="center" alt="FelipeC-Spring" height="30" width="45" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white.svg">
+  
+  <img align="center" alt="FelipeC-C#" height="30" width="40" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white.svg">
+  
   <img align="center" alt="FelipeC-.Net" height="30" width="40" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white.svg">  
   
   <img align="center" alt="FelipeC-Postman" height="30" width="60" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   
+  <img align="center" alt="FelipeC-SQLServer" height="30" width="85" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white.svg">
+  
   <img align="center" alt="FelipeC-Sharepoint" height="30" width="85" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white.svg"> 
 
-  <img align="center" alt="FelipeC-SQLServer" height="30" width="85" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white.svg">
+
   
   
 </div>
