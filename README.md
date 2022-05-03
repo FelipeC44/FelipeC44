@@ -8,7 +8,7 @@
 
 
 ### About me...
-Me chamo Felipe Cardoso, atualmente estou cursando Análise e Desenvolvimento de Sistemas no GrupoSer Educacional pela instituição Uninabuco. Também estou atuando como estagiário de desenvolvimento .Net Core e Analista de Qualidade. 💻
+Me chamo Felipe Cardoso, atualmente estou cursando Análise e Desenvolvimento de Sistemas no GrupoSerEducacional pela instituição Uninabuco/Univeritas. Também sou estagiário atuando como Analista de Qualidade e posteriormente no desenvolvimento .Net Core. 💻
 
 
 ## Tecnologias
