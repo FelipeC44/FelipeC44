@@ -11,9 +11,12 @@
 Me chamo Felipe Cardoso, atualmente estou cursando Análise e Desenvolvimento de Sistemas no Grupo SerEducacional pela instituição Uninabuco/Univeritas. Também sou estagiário atuando como Analista de Qualidade e posteriormente no desenvolvimento .Net Core. 💻
 
 
-## Tecnologias
+## Skills
 
 </div>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a86c53c7-0b15-44cb-9483-717b89f8c2aa" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="FelipeC-Java" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white.svg">
   
@@ -29,8 +32,6 @@ Me chamo Felipe Cardoso, atualmente estou cursando Análise e Desenvolvimento de
   
   <img align="center" alt="FelipeC-Sharepoint" height="30" width="85" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white.svg"> 
 
-
-  
   
 </div>
 
@@ -42,7 +43,6 @@ Me chamo Felipe Cardoso, atualmente estou cursando Análise e Desenvolvimento de
   <a href="https://www.linkedin.com/in/felipe-amaral-cardoso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://discord.gg/wBhGRvuj" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  
-  
  
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
