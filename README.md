@@ -8,7 +8,7 @@
 
 
 ### About me...
-Me chamo Felipe Cardoso, atualmente estou cursando Análise e Desenvolvimento de Sistemas no Grupo SerEducacional pela instituição Uninabuco/Univeritas. Também sou estagiário atuando como Analista de Testes e Qualidade e posteriormente no desenvolvimento .Net Core. 💻
+My name is Felipe Cardoso, I am currently studying Systems Analysis and Development at Grupo SerEducacional at Uninabuco/Univeritas. I work as a Test and Quality Analyst, as well as in the development of Java/.Net Core software. 💻 💻
 
 
 ## Skills
