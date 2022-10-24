@@ -36,7 +36,7 @@ My name is Felipe Cardoso, I am currently studying Systems Analysis and Developm
 
 
 
-## Redes
+## Networks
 
 <div> 
   
