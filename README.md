@@ -8,8 +8,7 @@
 
 
 ### About me...
-My name is Felipe Cardoso, I am currently studying Systems Analysis and Development at Grupo SerEducacional at Uninabuco/Univeritas. I work as a Test and Quality Analyst, as well as in the development of Java/.Net Core software. 💻 💻
-
+My name is Felipe Cardoso, today I have a degree in Systems Analysis and Development through the SerEducacional Group at the institution Uninabuco/Univeritas. I work as a Test and Quality Analyst, as well as in the development of Java/.Net Core software by fintech Sinqia.🧡 💻
 
 ## Skills
 
@@ -18,7 +17,7 @@ My name is Felipe Cardoso, I am currently studying Systems Analysis and Developm
 <div style="display: inline_block"><br>
   <img align="center" alt="FelipeC-Java" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white.svg">
   
-  <img align="center" alt="FelipeC-Spring" height="30" width="45" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white.svg">
+  <img align="center" alt="FelipeC-Spring" height="30" width="35" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white.svg">
   
   <img align="center" alt="FelipeC-C#" height="30" width="40" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white.svg">
   
