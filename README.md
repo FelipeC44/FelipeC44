@@ -7,7 +7,7 @@
 
 
 ### About me...
-My name is Felipe Cardoso, and I currently have a degree in Systems Analysis and Development from the SerEducacional Group at the Uninabuco/Univeritas institution. I work as a Test and Quality Analyst at the fintech Sinqia.🧡 💻
+My name is Felipe Cardoso, and I hold a degree in Systems Analysis and Development from Uninabuco/Univeritas, part of the SerEducacional Group. I work as a Software Testing and Quality Engineer at Evertec. 🧡💻
 
 ## Skills
 #### Artificial Intelligence IA
