@@ -1,91 +1,120 @@
-## Hey, welcome strangers!👋 
-
+# Hey, welcome strangers!👋 
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/87394511/166125047-986e3215-4c2e-4f77-9023-c412d5f699be.gif)
 
 ![](https://komarev.com/ghpvc/?username=FelipeC44)
 
 
-### About me...
-My name is Felipe Cardoso, and I hold a degree in Systems Analysis and Development from Uninabuco/Univeritas, part of the SerEducacional Group. I work as a Software Testing and Quality Engineer at Evertec. 🧡💻
+🎯 **Quality Engineer | QA | Software Testing | Banking Systems**
 
-## Skills
-#### Artificial Intelligence IA
+I have a degree in **Systems Analysis and Development** and work as a **Junior Quality Engineer**, with experience in **software testing for banking systems**, especially in **PIX, SPB, and Messaging**.
+
+I have experience in:
+- **Functional** testing
+- **Integration** testing
+- **End-to-end (E2E)** testing
+- **Performance** testing
+- **Database persistence** testing
+- **Quality metrics** analysis
+- **Technical documentation** and test traceability
+
+I enjoy combining **quality, critical analysis, and automation** to ensure safer, more efficient, and scalable deliveries.
+
+---
+
+## 🚀 About Me
+
+- 💼 Currently working as a **Junior Quality Engineer**
+- 🏦 Experience with banking systems: **PIX, SPB, and Messaging**
+- 🔌 Working with **REST APIs**, legacy systems, and integration validation
+- 📊 Focused on quality with support from **metrics, documentation, and continuous improvement**
+- 🤖 Interested in **test automation** and using **AI** to optimize processes
+- 🧠 Analytical, collaborative, and quality-oriented profile
+
+---
+
+## 🛠️ Tech Stack
+
+### Testing and Quality
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+
+### Languages and Development
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Databases and Infrastructure
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+### Management, Processes, and Collaboration
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Zephyr](https://img.shields.io/badge/Zephyr-0052CC?style=for-the-badge)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
+![Kanban](https://img.shields.io/badge/Kanban-2563EB?style=for-the-badge)
+![BDD](https://img.shields.io/badge/BDD-8A2BE2?style=for-the-badge)
+
+### Version Control and Terminal
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+### Artificial Intelligence for Productivity
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Microsoft Copilot](https://img.shields.io/badge/Microsoft%20Copilot-000000?style=for-the-badge&logo=microsoftcopilot&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-8957E5?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+---
+
+## 📌 Highlights of My Experience
+
+Throughout my career in QA, I have been working with:
+
+- ✅ Validation of critical flows in banking systems
+- ✅ E2E testing in complex environments
+- ✅ Integration testing between REST APIs, microservices, and legacy systems
+- ✅ Functional testing in Web and Desktop applications
+- ✅ Performance testing with bottleneck analysis
+- ✅ Data persistence and integrity validation
+- ✅ Test scenario planning, documentation, and execution
+- ✅ Generation of quality indicators and metrics for stakeholders
+
+---
+
+## 📚 Currently Studying
+
+- Test automation
+- QA best practices
+- APIs and integrated testing
+- CI/CD
+- BDD
+- Using AI to increase productivity in software quality
+
+---
+
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-amaral-cardoso)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeC44)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/FelipeC44">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeC44&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeC44&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="FelipeC-ChatGPT" height="30" width="60" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
-      
-  <img align="center" alt="FelipeC-Copilot" height="30" width="80" src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white">
 
-  <img align="center" alt="FelipeC-Gemini" height="30" width="80" src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white">
-</div>
-
-#### Frameworks & Library
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="FelipeC-.Net" height="30" width="60" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white.svg">  
-
-  <img align="center" alt="FelipeC-Junit5" height="30" width="60" src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
-  
-  <img align="center" alt="FelipeC-Postman" height="30" width="70" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-
-  <img align="center" alt="FelipeC-Robot" height="30" width="100" src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white">
-
-  <img align="center" alt="FelipeC-Selenium" height="30" width="70" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
-
-  <img align="center" alt="FelipeC-Spring" height="30" width="70" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-
-  <img align="center" alt="FelipeC-Swagger" height="30" width="70" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
-</div>
-
-#### Languages
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="FelipeC-Java" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white.svg">
-      
-  <img align="center" alt="FelipeC-C#" height="30" width="40" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white.svg">
-
-  <img align="center" alt="FelipeC-Python" height="30" width="60" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-</div>
-
-#### Office & DataBase
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="FelipeC-Sharepoint" height="30" width="100" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white.svg">
-  
-  <img align="center" alt="FelipeC-SQLServer" height="30" width="100" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white.svg">
-
-  <img align="center" alt="FelipeC-MySQL" height="30" width="100" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-
-  <img align="center" alt="FelipeC-Postgres" height="30" width="100" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-
-  <img align="center" alt="FelipeC-Oracle" height="30" width="100" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-</div>
-
-#### Terminal
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="FelipeC-Git" height="30" width="85" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  
-  <img align="center" alt="FelipeC-Powershell" height="30" width="85" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
-  
-  <img align="center" alt="FelipeC-WindowsTerminal" height="30" width="100" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"> 
-</div>
-
-#### Workflow Platforms
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="FelipeC-JIRA" height="30" width="85" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
-</div>
-
-## Networks
-<div> 
-  
-  <a href="https://www.linkedin.com/in/felipe-amaral-cardoso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://discord.gg/wBhGRvuj" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- 
- 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-  
-</div>
+---
