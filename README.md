@@ -106,13 +106,5 @@ Throughout my career in QA, I have been working with:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-amaral-cardoso)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeC44)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeC44&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeC44&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br&hide_border=true" />
-</div>
 
 ---
